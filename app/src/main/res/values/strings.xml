@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QQ/WeChat登录Demo</string>
+    <string name="qq">QQ</string>
+    <string name="wechat">WeChat</string>
+    <string name="exit">sign out</string>
+    <string name="wechat_un_install">没有安装微信</string>
+</resources>

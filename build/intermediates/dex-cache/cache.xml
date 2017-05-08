@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_56613e3c324faf901e67523609fe50450038b24e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/libs/open_sdk_r5788_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5080e3fb4b011f5f376e1d04870cd84480be02c3">
+        <dex dex="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/open_sdk_r5788_lite_27f6bb4d0ab8aec70dc7f0cf8c47fd68ae161db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3eb8d9c504102e284e6b84c0537e28441e833eb">
+        <dex dex="/Users/liuyang/AndroidStudioProjects/QQWeChatSignInDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f57a5fe48d8bd9c85ec5909a0149015ba5ffe981/classes.dex" />
+    </item>
+
+</items>
